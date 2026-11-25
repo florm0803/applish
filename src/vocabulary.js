@@ -710,7 +710,7 @@ export const vocabulary = [
 ["Comidas", "Taste & texture", "ripe", "maduro", "Adjetivo de sabor, textura o preparación de alimentos.", "I like my food ripe.", "Me gusta la comida maduro.", "A2"],
 ["Comidas", "Taste & texture", "raw", "crudo", "Adjetivo de sabor, textura o preparación de alimentos.", "I like my food raw.", "Me gusta la comida crudo.", "A2"],
 ["Comidas", "Taste & texture", "roasted", "asado al horno", "Adjetivo de sabor, textura o preparación de alimentos.", "I like my food roasted.", "Me gusta la comida asado al horno.", "A2"],
-["Comidas", "Taste & texture", "grilled", "a la parrilla", "Adjetivo de sabor, textura o preparación de alimentos.", "I like my food grilled.", "Me gusta la comida a la parrilla.", "A2"]
+["Comidas", "Taste & texture", "grilled", "a la parrilla", "Adjetivo de sabor, textura o preparación de alimentos.", "I like my food grilled.", "Me gusta la comida a la parrilla.", "A2"],
 
 ['Verbos','Cuerpo y salud','strain','forzar; sobrecargar; esforzarse','Hacer un esfuerzo excesivo que puede producir tensión o daño.','Don’t strain your eyes by reading in the dark.','No fuerces la vista leyendo a oscuras.','B2'],
 ['Verbos','Casa y comida','strain (food)','colar; filtrar','Separar un líquido de los sólidos usando un colador.','Strain the pasta before adding the sauce.','Colá la pasta antes de agregar la salsa.','B1'],
