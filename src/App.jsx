@@ -1,4 +1,4 @@
-import {useState,useMemo} from 'react';
+import React, {useState,useMemo} from 'react';
 import {vocabulary as data} from './vocabulary.js';
 const names={Todas:'All',Verbos:'Verbs',Sustantivos:'Nouns',Adjetivos:'Adjectives',Adverbios:'Adverbs',Conectores:'Connectors','Frases adverbiales':'Adverbial phrases','Phrasal verbs':'Phrasal verbs','Frases nativas':'Native expressions','Expresiones nativas':'Native expressions',Comidas:'Food',Colores:'Colors',Viajes:'Travel',Trabajo:'Work'};
 const key=x=>x.slice(0,4).join('::');
